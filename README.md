@@ -1,5 +1,3 @@
-# myprogect
-this is repo
-this repo is created by alaaabosedo
-<h1>hallo</h1>
-<h1>my name alaa</h1>
+# My-progect
+This is a test project for [Subject Name
+created on [27/10/2024 & 12ِam] by [alaa abosedo]]
